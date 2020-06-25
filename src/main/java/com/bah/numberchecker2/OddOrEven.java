@@ -16,7 +16,8 @@ public class OddOrEven
     public OddOrEven(){}
     public static void checkOddOrEven() 
     {
-       int x;
+      int x;
+      System.out.print("Veuillez un nombre entier: ");
       Scanner in = new Scanner(System.in);
       x = in.nextInt();
  

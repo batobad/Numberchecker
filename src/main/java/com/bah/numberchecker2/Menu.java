@@ -43,12 +43,13 @@ public class Menu
     }
     
      // Methods definition
-    public void checkOddOrEven() 
+    /*public void checkOddOrEven() 
     {
 	OddOrEven obj = new OddOrEven();
         obj.checkOddOrEven();
     }
-
+    */
+    
      public void exit() 
     {
         System.exit(0);
