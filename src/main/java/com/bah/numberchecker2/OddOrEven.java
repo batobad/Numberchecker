@@ -13,6 +13,7 @@ import java.util.Scanner;
  */
 public class OddOrEven 
 {
+    public OddOrEven(){}
     public static void checkOddOrEven() 
     {
        int x;

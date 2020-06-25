@@ -13,6 +13,7 @@ import java.util.Scanner;
  */
 public class Menu 
 {
+   
     public Menu(){}
     
     public void menu()
@@ -31,7 +32,7 @@ public class Menu
         
         switch(option)
         {
-            case 1: checkOddOrEven();
+            case 1:  OddOrEven.checkOddOrEven();
                     break;
             case 2: exit();
                     break;
