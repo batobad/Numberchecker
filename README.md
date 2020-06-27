@@ -1,2 +1,2 @@
 # Numberchecker
-Check whether a number is even or odd 2020
+Check whether a number is even or odd Juin 2020
